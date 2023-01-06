@@ -3,9 +3,7 @@ from PIL import Image
 import reghandle
 from functools import partial
 from tkinter import messagebox
-import pickle
 import sys, os
-import winreg
 
 app_name = 'micTray'
 
