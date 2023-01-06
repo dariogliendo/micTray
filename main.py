@@ -22,9 +22,6 @@ icon = pystray.Icon(app_name)
 image = Image.open(icon_path)
 icon.icon = image
 
-
-
-
 def no_action():
   return
 
